@@ -1,0 +1,50 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視",港台電視 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="港台電視",港台電視 32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv" group-title="港台電視",港台電視 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv" group-title="港台電視",港台電視 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv" group-title="港台電視",港台電視 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="213" logo="" tvg-id="cf4e7202eae0e3420269fdbaa56587be" tvg-chno="81",翡翠台
+http://192.168.18.213:9981/stream/channelid/41045711?ticket=ec315e8717a3e10d8e13b0022fa656df9dcfed68&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="a61124136ae46f162cc9db6875fd6750" tvg-chno="82",TVB Plus
+http://192.168.18.213:9981/stream/channelid/321130918?ticket=d42a4b8b454df8d204e4fc755280d3fb60e92a4f&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="60d65ed84910496041f17ff481a6eb05" tvg-chno="83",無綫新聞台
+http://192.168.18.213:9981/stream/channelid/1482610272?ticket=b5e3e6d53ef73c6eb60ae02a3a361b00d532abff&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="02b2bbaafc2ee112fb1f7e9a0372ab17" tvg-chno="84",明珠台
+http://192.168.18.213:9981/stream/channelid/716943874?ticket=f3472973dd2c155ee279a3923135e3163bab0451&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="ede8ddd8c934ed66d5a1a60ede905586" tvg-chno="85",鳳凰衛視香港台
+http://192.168.18.213:9981/stream/channelid/1490938093?ticket=3f0ceea5f9d466e97c1d57456492dc76f2acca66&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="a9897d9fe237a3344eeb5bcf690183b2" tvg-chno="96",ViuTVsix
+http://192.168.18.213:9981/stream/channelid/528320937?ticket=c450d12af0a72bd0ff5e817565581abe229c04ac&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="f35bc6398bc4afbe7ccd5a71143e2671" tvg-chno="99",ViuTV
+http://192.168.18.213:9981/stream/channelid/969300979?ticket=1c3b94a1af25888a8b5bcd06b9227d6cb87c9bdb&profile=pass
+
+#EXTINF:-1 group-title="213" logo="" tvg-id="f269f48e9697496659ffe7de3c14b367" tvg-chno="31",港台電視 31
+http://192.168.18.213:9981/stream/channelid/250898930?ticket=d9f798ff8431edf7d5e3c58ff7ed6807210f1953&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="a71348f104dd6a162dcf4d399cc9062f" tvg-chno="32",港台電視 32
+http://192.168.18.213:9981/stream/channelid/1900549031?ticket=7b652a568bfffee5474db5f5791b99e4880d6fa2&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="3d2e51841fdfb57fb8b8a2104cbca186" tvg-chno="33",中央電視台綜合頻道（CCTV-1綜合)
+http://192.168.18.213:9981/stream/channelid/72429117?ticket=f45d965f11f095f8aa151a872cb3dfa988e8ceda&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="181c62edd36f1e40877d836cac68bbf7" tvg-chno="34",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
+http://192.168.18.213:9981/stream/channelid/1835146264?ticket=42382e4567271bdc4b4cdad5e5c2f406303cbbfa&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="fc3743d0cb69d4e8ed9a83d463b06723" tvg-chno="76",*HOY 國際財經台
+http://192.168.18.213:9981/stream/channelid/1346582524?ticket=c6100442141c5c739b0775efc92667770c93a066&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="9aedf757c7df83234177f8f465f896d7" tvg-chno="76",HOY 國際財經台
+http://192.168.18.213:9981/stream/channelid/1475866010?ticket=efeb52a6790c5fa0fc78ba5dd1bb4457f521532f&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="4fa035f4078f9d82a51436e8fa8c0a8d" tvg-chno="77",*HOY TV
+http://192.168.18.213:9981/stream/channelid/1949671503?ticket=b5431bbc7e31a7c95b75566cd96eb5096cb59d62&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="de2d651aa4be79398b4bbb7c0e5cb88c" tvg-chno="77",HOY TV
+http://192.168.18.213:9981/stream/channelid/442838494?ticket=3dbc19dff503044f833b45387644d728c3f4a978&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="ff90b8a859b17472c408b6a14b0ed728" tvg-chno="78",*HOY 資訊台
+http://192.168.18.213:9981/stream/channelid/683184383?ticket=93eb59c21def0a7e35192588b60e425736ee9d7d&profile=pass
+#EXTINF:-1 group-title="213" logo="" tvg-id="46377d9f8899f14f12d5c63a86b23d4e" tvg-chno="78",HOY 資訊台
+http://192.168.18.213:9981/stream/channelid/528299846?ticket=a23b6acbb65b19a42db96eb41153d38fb9b2a2b5&profile=pass
+
