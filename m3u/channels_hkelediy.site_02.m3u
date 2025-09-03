@@ -4,9 +4,9 @@
 http://hkelediy.site:39981/stream/channelid/1896992527?ticket=aa05d4128046afe2663d59a6f6565f446d9a0ba0&profile=pass
 #EXTINF:-1 tvg-id="3fb5cb3ebdbe147cb209f5ea6950f8a2" tvg-chno="82" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",TVB Plus
 http://hkelediy.site:39981/stream/channelid/1053537599?ticket=53fabd7c06beb7f5bba73b65434838ccf1e79349&profile=pass
-#EXTINF:-1 tvg-id="e3e5ea90a28a1272e22fbfd28d124f85" tvg-chno="83" tvg-logo="https://github.com/tvboxShk/LiveTV/blob/main/png/tvb.png" group-title="TVB 無綫電視",無綫新聞台
+#EXTINF:-1 tvg-id="e3e5ea90a28a1272e22fbfd28d124f85" tvg-chno="83" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",無綫新聞台
 http://hkelediy.site:39981/stream/channelid/283829731?ticket=548c74821dd949af94385652131b8c81eed096e3&profile=pass
-#EXTINF:-1 tvg-id="2d9e5e1162990df3b49e0dbd404aac7a" tvg-chno="84" tvg-logo="https://github.com/tvboxShk/LiveTV/blob/main/png/tvb.png" group-title="TVB 無綫電視",明珠台
+#EXTINF:-1 tvg-id="2d9e5e1162990df3b49e0dbd404aac7a" tvg-chno="84" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視1",明珠台
 http://hkelediy.site:39981/stream/channelid/291413549?ticket=261591dfc5728c611e7a72ce4002b7577d68aa8a&profile=pass
 
 #EXTINF:-1 tvg-id="91a802fc6e14b69cd47b97e059b35605" tvg-chno="85" tvg-logo="/sdcard/Download/TV/Channel/png/鳳凰衛視香港台.jpg" group-title="鳳凰衛視",鳳凰衛視香港台
