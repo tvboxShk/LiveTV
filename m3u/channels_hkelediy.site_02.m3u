@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="0fcf11715e8803e78103ef0ff60d5064" tvg-chno="81" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",翡翠台
+#EXTINF:-1 tvg-id="0fcf11715e8803e78103ef0ff60d5064" tvg-chno="81" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",翡翠台 12
 http://hkelediy.site:39981/stream/channelid/1896992527?ticket=aa05d4128046afe2663d59a6f6565f446d9a0ba0&profile=pass
 #EXTINF:-1 tvg-id="3fb5cb3ebdbe147cb209f5ea6950f8a2" tvg-chno="82" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",TVB Plus
 http://hkelediy.site:39981/stream/channelid/1053537599?ticket=53fabd7c06beb7f5bba73b65434838ccf1e79349&profile=pass
