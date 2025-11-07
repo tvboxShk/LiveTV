@@ -1,43 +1,47 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="0fcf11715e8803e78103ef0ff60d5064" tvg-chno="81" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",翡翠台
-http://hkelediy.vicp.hk:39981/stream/channelid/1896992527?ticket=b9436e99c3592283ab4576b493880ebdaea0bc8a&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/1896992527?ticket=165d99c95344eca0a27a92656cedb98b97a222f6&profile=pass
 #EXTINF:-1 tvg-id="d95242705771287d1edbd9030847ba75" tvg-chno="82" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",TVB Plus
-http://hkelediy.vicp.hk:39981/stream/channelid/1883394777?ticket=9b4853250879bbba650c2b8c903e39eaf6ac044e&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/1883394777?ticket=1d198aa74421d0d72ea472c3a39994858438174f&profile=pass
 #EXTINF:-1 tvg-id="9123a6a474806e8f63d2eeade99ee2ae" tvg-chno="83" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",無綫新聞台
-http://hkelediy.vicp.hk:39981/stream/channelid/614867857?ticket=a2f38ff09e7fb5e6c18f1c95d444f7e538d38b0a&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/614867857?ticket=cf7e18edb13c79460cd231c47c81fd2792bc3b0e&profile=pass
 #EXTINF:-1 tvg-id="a605b7f86bee4cd0db2c44496bf922ee" tvg-chno="84" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/tvb.png" group-title="TVB 無綫電視",明珠台
-http://hkelediy.vicp.hk:39981/stream/channelid/2025260454?ticket=b810b10530a54f3c68d4deffd58f1444f2bac805&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/2025260454?ticket=ac2aeff69e41311f139bc65cc8247f53cc8da4c2&profile=pass
 
 #EXTINF:-1 tvg-id="e2b75761710c140bb0cd7c317626eafe" tvg-chno="85" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/鳳凰衛視香港台.jpg" group-title="鳳凰衛視",鳳凰衛視香港台
-http://hkelediy.vicp.hk:39981/stream/channelid/1633138658?ticket=d87746ef8b207aa08e9297581350e2e667ff74fd&profile=pass
-
-
-#EXTINF:-1 tvg-id="11b0c0663f59a7cbc5cff584f20f8b93" tvg-chno="77" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="HOY TV",*HOY TV
-http://hkelediy.vicp.hk:39981/stream/channelid/1723904017?ticket=d43a40fb7032fc20e96e49a0d5232bfb58d2f3b3&profile=pass
-#EXTINF:-1 tvg-id="c89c4136dc40eebd9a89f08ffc373143" tvg-chno="78" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="HOY TV",*HOY 資訊台
-http://hkelediy.vicp.hk:39981/stream/channelid/910269640?ticket=b346e3a3b7deb239888f45325674487b0b876e8a&profile=pass
-#EXTINF:-1 tvg-id="8c92eb991308306a057a74cdc61e417c" tvg-chno="76" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="HOY TV",*HOY 國際財經台
-http://hkelediy.vicp.hk:39981/stream/channelid/434868876?ticket=001a265eb112bf02192c65d13089da12f8284a0c&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/1633138658?ticket=ff081542707b2e0c44732fb5e015e6cf17f6ba92&profile=pass
 
 #EXTINF:-1 tvg-id="4ab6ebe5159121606a3fd81db0a0bba6" tvg-chno="99" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/ViuTV.png" group-title="ViuTV",ViuTV
-http://hkelediy.vicp.hk:39981/stream/channelid/1709946442?ticket=afb74b05aaad4b135c5897e6c5c3c81ca6ba4823&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/1709946442?ticket=490451ce6f832849526dcb378ac94f509c290bf4&profile=pass
 #EXTINF:-1 tvg-id="b6231777a065307f7cb2facd51dfce0e" tvg-chno="96" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/ViuTV.png" group-title="ViuTV",ViuTVsix
-http://hkelediy.vicp.hk:39981/stream/channelid/1998005174?ticket=2f2eedc9810d2ca826cc95a4ebd42fd740a8becc&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/1998005174?ticket=9ded227f251466a7888bee456d0812fe231769bb&profile=pass
 
+#EXTINF:-1 tvg-id="8f6c0d9121118447abcd1b1ba97c04bf" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="HOY TV",HOY TV
+http://hkelediy.vicp.hk:39981/stream/channelid/286092431?ticket=40a21a9057e6158125d11e31c8a690d6bddf0577&profile=pass
+#EXTINF:-1 tvg-id="dd695040466bd04bbbb1710078a85555" tvg-chno="78" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="HOY TV",HOY 資訊台
+http://hkelediy.vicp.hk:39981/stream/channelid/1079011805?ticket=f26f1a874d71d5b18da6da0bbc37a595049c7cc2&profile=pass
+#EXTINF:-1 tvg-id="31435b438dddc49e4657e06b5694160a" tvg-chno="76" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="HOY TV",HOY 國際財經台
+http://hkelediy.vicp.hk:39981/stream/channelid/1130054449?ticket=cbd386eefed2a0df9e0b8eb794460458c69f5faf&profile=pass
+#EXTINF:-1 tvg-id="11b0c0663f59a7cbc5cff584f20f8b93" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="*HOY TV",*HOY TV
+http://hkelediy.vicp.hk:39981/stream/channelid/1723904017?ticket=fb203d738ffb9ff8a04757bcb87b3b98751fa651&profile=pass
+#EXTINF:-1 tvg-id="c89c4136dc40eebd9a89f08ffc373143" tvg-chno="78" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="*HOY TV",*HOY 資訊台
+http://hkelediy.vicp.hk:39981/stream/channelid/910269640?ticket=262e3585ddb9ca0554929fd7a52a28073516d646&profile=pass
+#EXTINF:-1 tvg-id="8c92eb991308306a057a74cdc61e417c" tvg-chno="76" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/HOY TV.jpg" group-title="*HOY TV",*HOY 國際財經台
+http://hkelediy.vicp.hk:39981/stream/channelid/434868876?ticket=c909f03015e8428178f0f6f68ccab176a79f648a&profile=pass
 
 #EXTINF:-1 tvg-id="6332a63507bd11d929033e08c96d3574" tvg-chno="31" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/港台電視 31.png" group-title="港台電視",港台電視 31
-http://hkelediy.vicp.hk:39981/stream/channelid/900084323?ticket=b1032b87714d0fd50535b367582bdd75a40a9d77&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/900084323?ticket=9febff53e5136258c9ea45669ac83bd90dbd03a0&profile=pass
 #EXTINF:-1 tvg-id="b4abe42078ba5d73e45107055683dae5" tvg-chno="32" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/港台電視 32.png" group-title="港台電視",港台電視 32
-http://hkelediy.vicp.hk:39981/stream/channelid/551857076?ticket=bc4888886f6629098f3cea19828f4fce9900c441&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/551857076?ticket=d1da75836e9dfd22ebb190d0b6a33ca89669619c&profile=pass
 #EXTINF:-1 tvg-id="ca60dd5713c15f3829f701598996c6a5" tvg-chno="33" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/港台電視 33.png" group-title="港台電視",中央電視台綜合頻道（CCTV-1綜合)
-http://hkelediy.vicp.hk:39981/stream/channelid/1474126026?ticket=eecb0c524f37761c84853f40b728d49df4578241&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/1474126026?ticket=7862045301d288c5e0e8bfcb30901d5a71b390db&profile=pass
 #EXTINF:-1 tvg-id="5db1fbbaddab31ae91bbf9daf0332dc1" tvg-chno="34" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/港台電視 34.png" group-title="港台電視",中國環球電視網紀錄頻道 (CGTN紀錄頻道)
-http://hkelediy.vicp.hk:39981/stream/channelid/989573469?ticket=86fd0ede7e9852da74e5d461052777cd07728559&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/989573469?ticket=1bf66130a3f948a92701236a3a8e941122ee1220&profile=pass
 #EXTINF:-1 tvg-id="da948e0b3d3c52066b51cadae4d32ac6" tvg-chno="35" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/港台電視 35.png" group-title="港台電視",CGTN 英語頻道
-http://hkelediy.vicp.hk:39981/stream/channelid/193893594?ticket=95714f1e93dfb8922650d4f103c63492f0b953f0&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/193893594?ticket=d3b52d85d00030f35f4f0ecc6838df32b8a28198&profile=pass
 #EXTINF:-1 tvg-id="2b8fe2ce70dfd952e93a553479f22e6b" tvg-chno="32" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/港台電視 36.png" group-title="港台電視",港台電視 36
-http://hkelediy.vicp.hk:39981/stream/channelid/1323470635?ticket=21a89eeb82318018c74ad560cfa2bf92f684ba2b&profile=pass
+http://hkelediy.vicp.hk:39981/stream/channelid/1323470635?ticket=a2097337bd2c4138d50f3c1112b87bede4e4e378&profile=pass
 
 #EXTINF:-1 tvg-name="港台電視 31" tvg-logo="https://github.com/tvboxShk/LiveTV/raw/main/png/港台電視 31.png" group-title="港台電視 2",港台電視 31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/streamPlaylist.m3u8
